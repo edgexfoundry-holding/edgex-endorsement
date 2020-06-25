@@ -44,10 +44,6 @@
               },
               "ports": [
                 {
-                  "port": 8400,
-                  "protocol": "tcp"
-                },
-                {
                   "port": 8500,
                   "protocol": "tcp"
                 }
@@ -480,10 +476,6 @@
         "ipAddress": {
           "type": "Public",
           "ports": [
-            {
-              "protocol": "tcp",
-              "port": 8400
-            },
             {
               "protocol": "tcp",
               "port": 8500
