@@ -11,18 +11,18 @@
     }
   },
   "variables": {
-    "consul-image": "nexus3.edgexfoundry.org:10004/docker-edgex-consul:1.2.0",
+    "consul-image": "edgexfoundry//docker-edgex-consul:1.2.0",
     "redis-image": "redis:5.0.8-alpine",
-    "system-image": "nexus3.edgexfoundry.org:10004/docker-sys-mgmt-agent-go:1.2.1",
-    "notifications-image": "nexus3.edgexfoundry.org:10004/docker-support-notifications-go:1.2.1",
-    "metadata-image": "nexus3.edgexfoundry.org:10004/docker-core-metadata-go:1.2.1",
-    "data-image": "nexus3.edgexfoundry.org:10004/docker-core-data-go:1.2.1",
-    "command-image": "nexus3.edgexfoundry.org:10004/docker-core-command-go:1.2.1",
-    "scheduler-image": "nexus3.edgexfoundry.org:10004/docker-support-scheduler-go:1.2.1",
-    "app-service-rules-image": "nexus3.edgexfoundry.org:10004/docker-app-service-configurable:1.2.0",
+    "system-image": "edgexfoundry//docker-sys-mgmt-agent-go:1.2.1",
+    "notifications-image": "edgexfoundry//docker-support-notifications-go:1.2.1",
+    "metadata-image": "edgexfoundry//docker-core-metadata-go:1.2.1",
+    "data-image": "edgexfoundry//docker-core-data-go:1.2.1",
+    "command-image": "edgexfoundry//docker-core-command-go:1.2.1",
+    "scheduler-image": "edgexfoundry//docker-support-scheduler-go:1.2.1",
+    "app-service-rules-image": "edgexfoundry//docker-app-service-configurable:1.2.0",
     "rulesengine-image": "emqx/kuiper:0.3.2",
-    "device-virtual-image": "nexus3.edgexfoundry.org:10004/docker-device-virtual-go:1.2.1",
-    "device-rest-image": "nexus3.edgexfoundry.org:10004/docker-device-rest-go:1.2.1"
+    "device-virtual-image": "edgexfoundry//docker-device-virtual-go:1.2.1",
+    "device-rest-image": "edgexfoundry//docker-device-rest-go:1.2.1"
   },
   "resources": [
     {
