@@ -23,7 +23,7 @@ If you want to see how all of EdgeX works - you can leverage your own Azure acco
 memory($0.0324) + cpu($0.11664) = $0.14904 / hour
 = $3.57696 / day
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fedgexfoundry-holding%2Fedgex-endorsement%2Fmaster%2Ftemplates%2Fazure%2Fazuredeploy.json).
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frsdmike%2Fedgex-endorsement%2Farm%2Ftemplates%2Fazure%2Fazuredeploy.json).
 
 
 
