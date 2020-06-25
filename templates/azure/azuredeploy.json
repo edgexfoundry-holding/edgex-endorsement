@@ -22,7 +22,7 @@
     "app-service-rules-image": "edgexfoundry/docker-app-service-configurable:1.2.0",
     "rulesengine-image": "emqx/kuiper:0.3.2",
     "device-virtual-image": "edgexfoundry/docker-device-virtual-go:1.2.1",
-    "device-rest-image": "edgexfoundry/docker-device-rest-go:1.2.1"
+    "device-rest-image": "edgexfoundry/docker-device-rest-go:1.1.1"
   },
   "resources": [
     {
